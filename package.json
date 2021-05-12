@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "dotenv": "9.0.2",
-        "knex": "0.21.19",
+        "knex": "0.95.5",
         "mysql2": "2.2.5",
         "next": "10.2.0",
         "objection": "2.2.15",
