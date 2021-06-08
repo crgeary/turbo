@@ -14,7 +14,7 @@
         "pre-commit": "lint-staged"
     },
     "dependencies": {
-        "argon2": "0.28.1",
+        "argon2": "0.28.2",
         "dotenv": "10.0.0",
         "joi": "17.4.0",
         "knex": "0.21.19",
